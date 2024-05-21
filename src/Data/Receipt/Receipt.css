@@ -1,0 +1,22 @@
+.receipt-cont{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.table td{
+    width: 150px;
+}
+
+.table td{
+    font-weight: bold;
+}
+.total{
+    font-size: 1.3rem;
+}

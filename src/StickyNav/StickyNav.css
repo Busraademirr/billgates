@@ -1,0 +1,18 @@
+.nav-body{
+   background:linear-gradient(180deg,#2ecc71,#1abc9c);
+   height: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: bold;
+   font-size: 2rem;
+   color: white;
+   width: 100%;
+   margin-bottom:10px;
+}
+.sticky {
+   position: fixed;
+   top: 0;
+   z-index: 9999;
+   box-sizing: border-box;
+}

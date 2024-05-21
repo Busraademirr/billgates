@@ -1,0 +1,18 @@
+.bought-items table {
+    border-collapse: collapse;
+}
+
+.bought-items th, .bought-items td {
+    width: 200px;
+    height: 60px;
+    text-align: right;
+    border: none;
+}
+
+.bought-items th {
+    font-weight: bold;
+}
+
+.bought-items td {
+    border-bottom: 1px solid #ddd; /* İstediğiniz durumda çizgi göstermek için */
+}
